@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "47299005813",
+    "firebase_url": "https://localfriend-a477e.firebaseio.com",
+    "project_id": "localfriend-a477e",
+    "storage_bucket": "localfriend-a477e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47299005813:android:a0efe860e0c99b5d74973c",
+        "android_client_info": {
+          "package_name": "com.localfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47299005813-i010986uh78lklk3873s4ckfleut58fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.localfriend",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "47299005813-90amae4k7175e551ld92666o7mdtopo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdFZp7M-7r2DIxI7rbPQAzCfcF7SccdsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47299005813-90amae4k7175e551ld92666o7mdtopo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
