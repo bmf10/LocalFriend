@@ -1,5 +1,5 @@
 # LocalFriend
-" LocalFriend " is a social media created using JavaScript, Firebase, and the React-Native framework. <br><br> Download Link: http://bit.ly/30XnJWL
+"LocalFriend" is a social media created using JavaScript, Firebase, and the React-Native framework. <br><br> Download Link: http://bit.ly/30XnJWL
 
 ## Screenshot
 ![alt text](https://firebasestorage.googleapis.com/v0/b/localfriend-a477e.appspot.com/o/Untitled1.png?alt=media&token=6f075dda-538b-4a58-8a08-011676fb63b0)
